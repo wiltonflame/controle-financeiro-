@@ -2,7 +2,7 @@
   "name": "Controle Financeiro",
   "short_name": "Financeiro",
   "description": "Controle suas receitas e despesas mensais",
-  "start_url": "/index.html",
+  "start_url": "/controle-financeiro-/index.html",
   "display": "standalone",
   "background_color": "#1e3a5f",
   "theme_color": "#1e3a5f",
